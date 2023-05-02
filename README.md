@@ -8,7 +8,7 @@ This repo is for my seventh weekly challenge. I made this using HTML, Java and j
 
 The following image shows the web application's appearance and functionality:
 
-![work day scheduler](./assets/05-javascript-challenge-demo.png)
+![work day scheduler](.images\05-third-party-apis-homework-demo.gif)
 
 And here is a link to the web application: https://mamaspaspa.github.io/Daily-Planner-App/
 
